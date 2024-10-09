@@ -1,4 +1,4 @@
-# Reuse of solved linkage problems
+# Stop Relearning: Model Reuse via Feature Distribution Analysis for Incremental Entity Resolution
 
 Entity resolution is essential for data integration, facilitating analytics and insights from 
 complex systems. Multi-source and incremental entity resolution address the challenges of 
