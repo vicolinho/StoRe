@@ -69,7 +69,7 @@ parser.add_argument('--active_learning', '-al', type=str, default='almser', choi
                     help='active learning algorithm')
 parser.add_argument('--min_budget', '-mb', type=int, default=50,
                     help='minimum budget for each cluster')
-parser.add_argument('--total_budget', '-tb', type=int, default=1000,
+parser.add_argument('--total_budget', '-tb', type=int, default=2000,
                     help='total budget')
 parser.add_argument('--budget_unsolved', '-ub', type=int, default=200,
                     help='budget for unsolved linkage problems being not similar to any solved one')
